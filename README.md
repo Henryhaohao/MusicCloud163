@@ -22,10 +22,10 @@ Version: Python3
 pip3 install -r requirements.txt
 ```
 ## :dolphin:运行截图
-> - **歌曲链接中获取歌曲ID**<br>
+> - **歌曲链接中获取歌曲ID**<br><br>
 ![enter image description here](Pic/songid.png)
 
-> - **运行**<br>
+> - **运行**<br><br>
 ![enter image description here](Pic/run.png)
 
 
